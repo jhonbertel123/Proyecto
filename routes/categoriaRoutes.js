@@ -4,7 +4,7 @@ const {
     obtenerCategorias, 
     actualizarCategoria, 
     eliminarCategoria 
-} = require('../controllers/categoriaController');
+} = require('../controllers/categoriaControllers');
 
 const router = express.Router();
 
